@@ -10,7 +10,7 @@ const text = require("./TextAsset").text;
 function AscText(scene, idList, petternOn) {
     const message = new textclass.template.imageLocation();
 
-    //背景色用エンティティを
+    //背景色用エンティティを生成
     const square=new entity.entity.square({
         width:textclass.width,
         height:textclass.height,
