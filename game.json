@@ -1,0 +1,160 @@
+{
+	"width": 768,
+	"height": 432,
+	"fps": 30,
+	"main": "./script/main.js",
+	"assets": {
+		"se": {
+			"type": "audio",
+			"path": "audio/se",
+			"systemId": "sound",
+			"duration": 250
+		},
+		"main": {
+			"type": "script",
+			"path": "script/main.js",
+			"global": true
+		},
+		"AssetConfigure": {
+			"type": "script",
+			"path": "script/AssetConfigure.js",
+			"global": true
+		},
+		"SceneList": {
+			"type": "script",
+			"path": "script/SceneList.js",
+			"global": true
+		},
+		"TemplateOption": {
+			"type": "script",
+			"path": "script/TemplateOption.js",
+			"global": true
+		},
+		"TextAsset": {
+			"type": "script",
+			"path": "script/TextAsset.js",
+			"global": true
+		},
+		"EntityAsset": {
+			"type": "script",
+			"path": "script/EntityAsset.js",
+			"global": true
+		},
+		"DisplaySize": {
+			"type": "script",
+			"path": "script/DisplaySize.js",
+			"global": true
+		},
+		"GameScene": {
+			"type": "script",
+			"path": "script/GameScene.js",
+			"global": true
+		},
+		"Yes": {
+			"type": "image",
+			"path": "image/Yes.png",
+			"width": 70,
+			"height": 44
+		},
+		"End1": {
+			"type": "image",
+			"path": "image/End1.png",
+			"width": 234,
+			"height": 46
+		},
+		"EndLive": {
+			"type": "image",
+			"path": "image/EndLive.png",
+			"width": 283,
+			"height": 46
+		},
+		"EndLive2": {
+			"type": "image",
+			"path": "image/EndLive2.png",
+			"width": 365,
+			"height": 46
+		},
+		"No": {
+			"type": "image",
+			"path": "image/No.png",
+			"width": 97,
+			"height": 46
+		},
+		"player": {
+			"type": "image",
+			"path": "image/player.png",
+			"width": 32,
+			"height": 32
+		},
+		"shot": {
+			"type": "image",
+			"path": "image/shot.png",
+			"width": 16,
+			"height": 16
+		},
+		"Pettern1": {
+			"type": "image",
+			"path": "image/Pettern1.png",
+			"width": 450,
+			"height": 46
+		},
+		"Pettern2": {
+			"type": "image",
+			"path": "image/Pettern2.png",
+			"width": 407,
+			"height": 36
+		},
+		"EndLive3": {
+			"type": "image",
+			"path": "image/EndLive3.png",
+			"width": 446,
+			"height": 46
+		},
+		"EndLive4": {
+			"type": "image",
+			"path": "image/EndLive4.png",
+			"width": 445,
+			"height": 47
+		},
+		"EndLive5": {
+			"type": "image",
+			"path": "image/EndLive5.png",
+			"width": 149,
+			"height": 46
+		},
+		"EndLive6": {
+			"type": "image",
+			"path": "image/EndLive6.png",
+			"width": 231,
+			"height": 46
+		},
+		"EndLive7": {
+			"type": "image",
+			"path": "image/EndLive7.png",
+			"width": 282,
+			"height": 46
+		},
+		"EndLive8": {
+			"type": "image",
+			"path": "image/EndLive8.png",
+			"width": 363,
+			"height": 46
+		},
+		"EndLive9": {
+			"type": "image",
+			"path": "image/EndLive9.png",
+			"width": 336,
+			"height": 46
+		},
+		"EndLive10": {
+			"type": "image",
+			"path": "image/EndLive10.png",
+			"width": 205,
+			"height": 46
+		}
+	},
+	"moduleMainScripts": {},
+	"environment": {
+		"sandbox-runtime": "3"
+	}
+}
